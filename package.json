@@ -1,0 +1,17 @@
+{
+  "name": "curso_de_frontend_developer",
+  "version": "1.0.0",
+  "description": "creación del frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "start-storybook"
+  },
+  "author": "luis_parra",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@storybook/html": "^5.1.11",
+    "babel-loader": "^8.0.6"
+  }  
+}
